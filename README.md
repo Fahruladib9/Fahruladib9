@@ -1,93 +1,180 @@
-# 👋 Hai, Saya **Fahrul Adib**!
+# <div align="center">👋 Hai, Saya Fahrul Adib!</div>
 
-[![Profile views](https://komarev.com/ghpvc/?username=fahruladib9)](https://github.com/fahruladib9)
+<div align="center">
+  
+[![Profile views](https://komarev.com/ghpvc/?username=fahruladib9&color=blueviolet)](https://github.com/fahruladib9)
+[![GitHub followers](https://img.shields.io/github/followers/fahruladib9?style=social)](https://github.com/fahruladib9)
+[![Gmail](https://img.shields.io/badge/Gmail-fahruladib9%40gmail.com-red?style=flat&logo=gmail)](mailto:fahruladib9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fahruladib9-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fahruladib9/)
 
-Saya adalah seorang **Web Developer** dengan pengalaman dalam menggunakan **PHP**, **Laravel**, **CodeIgniter**, dan **Bootstrap**. Saya berpengalaman dalam mengembangkan berbagai aplikasi web seperti **sistem kasir**, **perpustakaan digital**, **Point of Sales**, **inventory**, **toko online**, dan **sistem absensi**.
+</div>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&random=false&width=435&lines=Web+Developer;Laravel+Expert;Full+Stack+Developer;PHP+Enthusiast" alt="Typing SVG" />
+</div>
 
-## 💼 **Tech Stack**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![PHP](https://img.shields.io/badge/PHP-%23A68C6B?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EC5C5A?style=flat-square&logo=codeigniter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=flat-square&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Tentang Saya</b>
 
----
+Saya adalah seorang **Web Developer** dengan pengalaman dalam mengembangkan berbagai aplikasi web dengan PHP dan framework-nya. Spesialisasi saya meliputi pembuatan sistem kasir, perpustakaan digital, Point of Sales, inventory, toko online, dan sistem absensi.
 
-## 🚀 **Proyek Saya**
+<table>
+  <tr>
+    <td>
+      🏢 Pengalaman: 1+ Tahun sebagai Web Developer<br/>
+      🌍 Lokasi: Indonesia<br/>
+      🎓 Pendidikan: S1 Sistem Informasi<br/>
+      ⚡ Status: Mencari peluang freelance, part-time, atau full-time remote 🌍
+    </td>
+    <td>
+      <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+    </td>
+  </tr>
+</table>
 
-### 🧑‍💻 **Sistem Kasir**
-Aplikasi **POS** sederhana untuk mengelola transaksi penjualan dan stok barang.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**Fitur:**
-- CRUD produk
-- Proses transaksi penjualan
-- Laporan penjualan dan stok
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Tech Stack</b>
 
-**Teknologi yang Digunakan:** PHP, Laravel, Bootstrap  
-**Status:** Selesai (Proyek pribadi)
+<div align="center">
+  
+  ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+  ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  
+</div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Proyek Saya</b>
 
-### 📚 **Perpustakaan Digital**
-Sistem manajemen perpustakaan untuk pengelolaan buku dan anggota.
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🧑‍💻 Sistem Kasir (POS)</h3>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/media/300f61d5e7981fef4ee9e10ef6a85657.gif" width="100%" alt="POS System"/>
+          </a>
+        </p>
+        <p>
+          <strong>Fitur:</strong><br>
+          • CRUD produk<br>
+          • Proses transaksi penjualan<br>
+          • Laporan penjualan dan stok<br><br>
+          <strong>Tech:</strong> PHP, Laravel, Bootstrap<br>
+          <strong>Status:</strong> Selesai (Proyek pribadi)
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">📚 Perpustakaan Digital</h3>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://cdn.dribbble.com/users/1068771/screenshots/14247776/media/fbf5f8ae629e3a4d0b1c7719c3e74cc5.jpg" width="100%" alt="Digital Library"/>
+          </a>
+        </p>
+        <p>
+          <strong>Fitur:</strong><br>
+          • CRUD data buku dan anggota<br>
+          • Peminjaman dan pengembalian buku<br>
+          • Laporan transaksi<br><br>
+          <strong>Tech:</strong> PHP, CodeIgniter, MySQL<br>
+          <strong>Status:</strong> Selesai (Proyek pribadi)
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🏪 Toko Online</h3>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://cdn.dribbble.com/users/1626229/screenshots/14111364/media/0da8c461ba3150306a7e8382bf53778d.jpg" width="100%" alt="E-Commerce"/>
+          </a>
+        </p>
+        <p>
+          <strong>Fitur:</strong><br>
+          • CRUD produk<br>
+          • Proses checkout dan pembayaran<br>
+          • Laporan transaksi dan pengiriman<br><br>
+          <strong>Tech:</strong> Laravel, Bootstrap<br>
+          <strong>Status:</strong> Selesai (Freelance)
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🧑‍🏫 Sistem Absensi</h3>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://cdn.dribbble.com/users/1626229/screenshots/10099928/media/4390eac651328a3efc93d8b7a917d5bb.jpg" width="100%" alt="Attendance System"/>
+          </a>
+        </p>
+        <p>
+          <strong>Fitur:</strong><br>
+          • Login karyawan<br>
+          • Pencatatan absensi<br>
+          • Laporan kehadiran bulanan<br><br>
+          <strong>Tech:</strong> PHP, MySQL, Bootstrap<br>
+          <strong>Status:</strong> Selesai (Proyek pribadi)
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-**Fitur:**
-- CRUD data buku dan anggota
-- Peminjaman dan pengembalian buku
-- Laporan transaksi
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**Teknologi yang Digunakan:** PHP, CodeIgniter, MySQL  
-**Status:** Selesai (Proyek pribadi)
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Stats</b>
 
+<div align="center">
+  <a href="https://github.com/fahruladib9">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahruladib9&theme=radical&border=7F3FBF&background=0D1117" alt="Fahrul's GitHub streak"/>
+  </a>
+</div>
 
----
+<p align="center">
+  <a href="https://github.com/fahruladib9">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahruladib9&theme=radical" alt="Fahrul's GitHub Contribution"/>
+  </a>
+</p>
 
-### 🏪 **Toko Online**
-Platform **e-commerce** untuk penjualan barang online.
+<a> 
+  <a href="https://github.com/fahruladib9">
+    <img alt="Fahrul's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=fahruladib9&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  </a>
+  <a href="https://github.com/fahruladib9">
+    <img alt="Fahrul's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=fahruladib9&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  </a>
+</a>
 
-**Fitur:**
-- CRUD produk
-- Proses checkout dan pembayaran
-- Laporan transaksi dan pengiriman
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**Teknologi yang Digunakan:** Laravel, Bootstrap  
-**Status:** Selesai (Freelance)
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> <b>Mari Terhubung!</b>
 
+<div align="center">
+  <a href="mailto:fahruladib9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/fahruladib9">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/fahruladib9">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
----
+<div align="center">
+  <h3>📊 Aktivitas Mingguan Saya</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahruladib9&theme=react-dark&bg_color=0D1117&color=7F3FBF&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="Fahrul's Activity Graph"/>
+</div>
 
-### 🧑‍🏫 **Sistem Absensi**
-Sistem absensi online untuk mencatat kehadiran karyawan.
-
-**Fitur:**
-- Login karyawan
-- Pencatatan absensi
-- Laporan kehadiran bulanan
-
-**Teknologi yang Digunakan:** PHP, MySQL, Bootstrap  
-**Status:** Selesai (Proyek pribadi)
-
-
----
-
-## 📫 **Hubungi Saya**
-
-- 💌 Email: [fahruladib9@gmail.com](mailto:fahruladib9@gmail.com)
-- 💻 GitHub: [https://github.com/fahruladib9](https://github.com/fahruladib9)
-- 🌐 LinkedIn: [https://linkedin.com/in/fahruladib](https://www.linkedin.com/in/fahruladib9/)
-
----
-
-### 💼 **Tentang Saya:**
-
-- 🏢 **Pengalaman:** 1+ Tahun sebagai Web Developer
-- 🌍 **Lokasi:** Indonesia
-- 🎓 **Pendidikan:** S1 Sistem Informasi
-
----
-
-> Saya sedang mencari peluang freelance, part-time, atau full-time remote 🌍
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
