@@ -13,7 +13,6 @@ Saya adalah seorang **Web Developer** dengan pengalaman dalam menggunakan **PHP*
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EC5C5A?style=flat-square&logo=codeigniter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=flat-square&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F1502F?style=flat-square&logo=git&logoColor=white)
 
 ---
 
