@@ -27,9 +27,8 @@ Aplikasi **POS** sederhana untuk mengelola transaksi penjualan dan stok barang.
 - Laporan penjualan dan stok
 
 **Teknologi yang Digunakan:** PHP, Laravel, Bootstrap  
-**Status:** Selesai (Proyek pribadi)  
-![Project Image](https://via.placeholder.com/150)  
-[GitHub Link](https://github.com/fahruladib9/sistem-kasir)
+**Status:** Selesai (Proyek pribadi)
+
 
 ---
 
@@ -42,9 +41,8 @@ Sistem manajemen perpustakaan untuk pengelolaan buku dan anggota.
 - Laporan transaksi
 
 **Teknologi yang Digunakan:** PHP, CodeIgniter, MySQL  
-**Status:** Selesai (Proyek pribadi)  
-![Project Image](https://via.placeholder.com/150)  
-[GitHub Link](https://github.com/fahruladib9/perpustakaan-digital)
+**Status:** Selesai (Proyek pribadi)
+
 
 ---
 
@@ -57,9 +55,8 @@ Platform **e-commerce** untuk penjualan barang online.
 - Laporan transaksi dan pengiriman
 
 **Teknologi yang Digunakan:** Laravel, Bootstrap  
-**Status:** Selesai (Freelance)  
-![Project Image](https://via.placeholder.com/150)  
-[GitHub Link](https://github.com/fahruladib9/toko-online)
+**Status:** Selesai (Freelance)
+
 
 ---
 
@@ -72,9 +69,8 @@ Sistem absensi online untuk mencatat kehadiran karyawan.
 - Laporan kehadiran bulanan
 
 **Teknologi yang Digunakan:** PHP, MySQL, Bootstrap  
-**Status:** Selesai (Proyek pribadi)  
-![Project Image](https://via.placeholder.com/150)  
-[GitHub Link](https://github.com/fahruladib9/sistem-absensi)
+**Status:** Selesai (Proyek pribadi)
+
 
 ---
 
