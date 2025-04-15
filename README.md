@@ -79,15 +79,15 @@ Sistem absensi online untuk mencatat kehadiran karyawan.
 
 - 💌 Email: [fahruladib9@gmail.com](mailto:fahruladib9@gmail.com)
 - 💻 GitHub: [https://github.com/fahruladib9](https://github.com/fahruladib9)
-- 🌐 LinkedIn: [https://linkedin.com/in/fahruladib](https://linkedin.com/in/fahruladib)
+- 🌐 LinkedIn: [https://linkedin.com/in/fahruladib](https://www.linkedin.com/in/fahrul-adib-560937245/)
 
 ---
 
 ### 💼 **Tentang Saya:**
 
-- 🏢 **Pengalaman:** 3+ Tahun sebagai Web Developer
+- 🏢 **Pengalaman:** 1+ Tahun sebagai Web Developer
 - 🌍 **Lokasi:** Indonesia
-- 🎓 **Pendidikan:** Sarjana Teknologi Informasi
+- 🎓 **Pendidikan:** S1 Sistem Informasi
 
 ---
 
