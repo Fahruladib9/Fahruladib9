@@ -61,11 +61,6 @@ Saya adalah seorang **Web Developer** dengan pengalaman dalam mengembangkan berb
     <tr>
       <td width="50%">
         <h3 align="center">🧑‍💻 Sistem Kasir (POS)</h3>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/media/300f61d5e7981fef4ee9e10ef6a85657.gif" width="100%" alt="POS System"/>
-          </a>
-        </p>
         <p>
           <strong>Fitur:</strong><br>
           • CRUD produk<br>
@@ -77,11 +72,6 @@ Saya adalah seorang **Web Developer** dengan pengalaman dalam mengembangkan berb
       </td>
       <td width="50%">
         <h3 align="center">📚 Perpustakaan Digital</h3>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://cdn.dribbble.com/users/1068771/screenshots/14247776/media/fbf5f8ae629e3a4d0b1c7719c3e74cc5.jpg" width="100%" alt="Digital Library"/>
-          </a>
-        </p>
         <p>
           <strong>Fitur:</strong><br>
           • CRUD data buku dan anggota<br>
@@ -95,11 +85,6 @@ Saya adalah seorang **Web Developer** dengan pengalaman dalam mengembangkan berb
     <tr>
       <td width="50%">
         <h3 align="center">🏪 Toko Online</h3>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://cdn.dribbble.com/users/1626229/screenshots/14111364/media/0da8c461ba3150306a7e8382bf53778d.jpg" width="100%" alt="E-Commerce"/>
-          </a>
-        </p>
         <p>
           <strong>Fitur:</strong><br>
           • CRUD produk<br>
@@ -111,11 +96,6 @@ Saya adalah seorang **Web Developer** dengan pengalaman dalam mengembangkan berb
       </td>
       <td width="50%">
         <h3 align="center">🧑‍🏫 Sistem Absensi</h3>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://cdn.dribbble.com/users/1626229/screenshots/10099928/media/4390eac651328a3efc93d8b7a917d5bb.jpg" width="100%" alt="Attendance System"/>
-          </a>
-        </p>
         <p>
           <strong>Fitur:</strong><br>
           • Login karyawan<br>
@@ -135,7 +115,6 @@ Saya adalah seorang **Web Developer** dengan pengalaman dalam mengembangkan berb
 
 <div align="center">
   <a href="https://github.com/fahruladib9">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahruladib9&theme=radical&border=7F3FBF&background=0D1117" alt="Fahrul's GitHub streak"/>
   </a>
 </div>
 
