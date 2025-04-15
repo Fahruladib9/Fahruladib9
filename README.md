@@ -35,11 +35,10 @@
 <div align="left">
   <ul>
     <li>🔭 Saat ini saya sedang mengerjakan <b>proyek e-commerce baru</b></li>
-    <li>🌱 Sedang mempelajari <b>React dan Node.js</b></li>
     <li>👯 Saya terbuka untuk kolaborasi dalam <b>proyek web development</b></li>
     <li>💬 Tanyakan saya tentang <b>PHP, Laravel, dan pengembangan web</b></li>
-    <li>⚡ Fun fact: <b>Saya juga suka fotografi dan hiking</b></li>
-    <li>🌍 Mencari peluang <b>freelance, part-time, atau full-time remote</b></li>
+    <li>⚡ Fun fact: <b>Saya juga suka bermain gitar</b></li>
+    <li>🌍 Mencari peluang <b>freelance, part-time, atau full-time (remote / onsite)</b></li>
   </ul>
 </div>
 
@@ -65,15 +64,6 @@
         <a href="https://laravel.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
         <a href="https://www.codeigniter.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" /></a>  
         <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-      </div>
-      </td>
-      <td valign="top" width="33%">
-      <h3 align="center">DevOps & Tools</h3>
-      <div align="center">  
-        <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-        <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-        <a href="https://www.figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-        <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" /></a>  
       </div>
       </td>
     </tr>
