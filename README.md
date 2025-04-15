@@ -12,7 +12,7 @@
   
   [![Profile views](https://komarev.com/ghpvc/?username=fahruladib9&color=6C63FF&style=for-the-badge&label=PENGUNJUNG)](https://github.com/fahruladib9)
   [![GitHub followers](https://img.shields.io/github/followers/fahruladib9?style=for-the-badge&color=6C63FF&labelColor=1a1b27&logo=github)](https://github.com/fahruladib9)
-  [![Website](https://img.shields.io/badge/Portfolio-Open-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+  [![Website](https://img.shields.io/badge/Portfolio-Open-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/fahruladib9)
   
 </div>
 
@@ -90,17 +90,6 @@
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-85%25-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=282828"/>
     <img alt="SQL" src="https://img.shields.io/badge/SQL-80%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=282828"/>
   </p>
-</div>
-
-<h2 align="center">🚀 Proyek Unggulan</h2>
-
-<div align="center">
-  <a href="https://github.com/fahruladib9" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fahruladib9&repo=project-name-1&theme=tokyonight" width="49%" alt="Proyek 1"/>
-  </a>
-  <a href="https://github.com/fahruladib9" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fahruladib9&repo=project-name-2&theme=tokyonight" width="49%" alt="Proyek 2"/>
-  </a>
 </div>
 
 <h2 align="center">💻 Portofolio Proyek</h2>
@@ -201,18 +190,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahruladib9&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Fahrul's Activity Graph" width="90%" />
 </div>
 
-<h2 align="center">☕ Beri Dukungan</h2>
-
-<div align="center">
-  <p>Jika Anda menyukai proyek yang saya kerjakan, Anda dapat mendukung saya dengan memberi ⭐️ pada repositori, atau bahkan dengan mentraktir saya secangkir kopi!</p>
-  
-  <a href="https://www.buymeacoffee.com/fahruladib9" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-  <a href="https://paypal.me/fahruladib9" target="_blank">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
-  </a>
-</div>
 
 <h2 align="center">📬 Hubungi Saya</h2>
 
